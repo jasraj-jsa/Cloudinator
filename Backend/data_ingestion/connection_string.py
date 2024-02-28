@@ -1,0 +1,1 @@
+CONNECTION_STRING = "DefaultEndpointsProtocol=https;AccountName=cloudinatortest1;AccountKey=kY7mK1WQPDBIq6gCmE2wZh7B2dwiohPVdevfkVVJBd7Se3vN4QOm7RjkzGgZ64AEvjA1t4vI2EX1SxOe9gkoQA==;TableEndpoint=https://cloudinatortest1.table.cosmos.azure.com:443/;"

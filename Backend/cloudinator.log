@@ -1,0 +1,5 @@
+2021-09-25 00:57:06,361  * Debugger is active! 
+2021-09-25 00:57:06,377  * Debugger PIN: 109-064-449 
+2021-09-25 00:57:27,605 127.0.0.1 - - [25/Sep/2021 00:57:27] "[37mGET /searchDB?username=jasraj.anand@citrix.com HTTP/1.1[0m" 200 - 
+2021-09-25 01:22:18,308 127.0.0.1 - - [25/Sep/2021 01:22:18] "[37mGET /searchDB?username=jasraj.anand@citrix.com HTTP/1.1[0m" 200 - 
+2021-09-25 01:22:28,190 127.0.0.1 - - [25/Sep/2021 01:22:28] "[37mPOST /notifyUser HTTP/1.1[0m" 200 - 
